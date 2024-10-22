@@ -34,7 +34,7 @@ Nvidia and AI
 ## Landscape
 
 * What field is the company in?
-    - Nvidia Corporation is the largest and most powerful producer of Graphics Processing Units and AI hardware, and currently the most valuable company in the entire world. 
+    - Nvidia Corporation is the largest and most powerful producer of Graphics Processing Units and AI hardware, and currently trading places for the most valuable company in the entire world with Apple. 
 
 * What have been the major trends and innovations of this field over the last 5-10 years?
     - The Renaissance of AI in the last 5 or so years has rocketed Nvidia to the forefront of every single major (and minor) company's board meetings and R&D discussions, and it is no mystery as to why Nvidia's data center GPU's are constantly at risk of backorder as they operate at maximum capacity around the clock. Any company that wishes to innovate in their own way on the recent developments of AI requires hardware to do so, and therefore must go through Nvidia unless they are willing to try their hand at a smaller manufacturer or in-house technology. However, given Nvidia's massive R&D budget and long-time dominance in the field, the risk/reward balance does not favor innovation against this tech giant. As such, recent trends have rendered Nvidia a household name, with businesses around the world clamoring to get their hands on as many data center GPUs as possible to facilitate the adoption of new emerging AI technologies. 
